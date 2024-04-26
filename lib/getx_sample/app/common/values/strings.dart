@@ -1,0 +1,1 @@
+const mlmAppName = 'MLM-기사용';
